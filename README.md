@@ -1,7 +1,7 @@
 # music_databse
 #THis is an music databse
 
-# following are the questions to perform on the music_database Tables
+# following are the questions and Queries  to perform reports  on the music_database Tables
 
 #Question Set 1 - Easy 
 
